@@ -1,0 +1,28 @@
+Duck has borned
+Quack!
+Penguin has borned
+Squawk!
+Eagle has borned
+Screech!
+----------------------
+Bird #1:
+Species: Duck
+This bird can fly.
+This bird can swim.
+----------------------
+Bird #2:
+Species: Penguin
+This bird can't fly.
+This bird can swim.
+----------------------
+Bird #3:
+Species: Eagle
+This bird can fly.
+This bird can't swim.
+----------------------
+Quack!
+Duck has died
+Squawk!
+Penguin has died
+Screech!
+Eagle has died
